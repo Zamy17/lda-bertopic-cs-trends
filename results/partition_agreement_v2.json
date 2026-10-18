@@ -1,0 +1,8 @@
+{
+  "n_docs_compared": 24551,
+  "nmi_lda_vs_bt_reduced": 0.3135213842282145,
+  "ari_lda_vs_bt_reduced": 0.18053720369211243,
+  "nmi_lda_vs_bt_natural": 0.3753403228447722,
+  "n_strong": 11,
+  "n_lda_topics": 25
+}
